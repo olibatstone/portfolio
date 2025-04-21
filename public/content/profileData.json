@@ -1,0 +1,908 @@
+{
+  "general": {
+    "profilePhoto": "/content/media/profilePhoto.jpg",
+    "username": "olibatstone",
+    "displayName": "Oli Batstone, UXC",
+    "profession": "Senior Product Designer",
+    "location": "Bristol, UK",
+    "pronouns": "He/him",
+    "byline": "Senior Product Designer in Bristol, UK, He/him",
+    "website": null,
+    "websiteURL": null,
+    "about": "Senior product designer with a keen eye for visual design. Over 8 years experience delivering effective software with users, business leaders, designers and engineers in mission-led B2B and B2C companies. Enjoys challenges and seeks learning opportunities. Interested in nature and the universe, architecture, evolutionary biology, language and etymologies, cooking, veganism, and travel.",
+    "status": {
+      "text": null,
+      "emoji": null,
+      "timestamp": null
+    },
+    "sectionOrder": [
+      "Projects",
+      "Writing",
+      "Side Projects",
+      "Exhibitions",
+      "Speaking",
+      "Awards",
+      "Work Experience",
+      "Features",
+      "Certifications",
+      "Education",
+      "Volunteering",
+      "Contact",
+      "Teams"
+    ]
+  },
+  "projects": [
+    {
+      "id": "7OW9OfaF4FBjwnoViSJ6",
+      "year": "2024",
+      "heading": "Tuning the Test Kit at Genomics plc",
+      "url": null,
+      "collaborators": [],
+      "description": "We defined a new online sample identification system for our genetic test kit, boosting successful use by 4.7%.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 1408,
+          "height": 860,
+          "url": "/content/media/Tuning-the-Test-Kit-at-Genomics-plc-1.png"
+        },
+        {
+          "type": "image",
+          "width": 3000,
+          "height": 2250,
+          "url": "/content/media/Tuning-the-Test-Kit-at-Genomics-plc-2.png"
+        }
+      ],
+      "type": "project",
+      "title": "Tuning the Test Kit",
+      "company": "Genomics plc"
+    },
+    {
+      "id": "rrj5IJTkEi3up90ffekF",
+      "year": "2022",
+      "heading": "A New Home for Gardens at Candide",
+      "url": null,
+      "collaborators": [],
+      "description": "We refreshed the home page in March 2022, turning it into a destination and improving bounce rate by -5%.",
+      "attachments": [],
+      "type": "project",
+      "title": "A New Home for Gardens",
+      "company": "Candide"
+    },
+    {
+      "id": "OHze3VIkzFs7ZFXnGKT9",
+      "year": "2021",
+      "heading": "The Gift of Gardens at Candide",
+      "url": null,
+      "collaborators": [],
+      "description": "We launched a garden membership gifting service, driving £32k revenue over Xmas 2021 and 13 new clients.",
+      "attachments": [],
+      "type": "project",
+      "title": "The Gift of Gardens",
+      "company": "Candide"
+    },
+    {
+      "id": "B1g5aHfLx48mfLAdOQyj",
+      "year": "2021",
+      "heading": "Time Slots at Candide",
+      "url": null,
+      "collaborators": [],
+      "description": "We optimised visitor date selection and added time slots to help gardens manage crowds.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 2064,
+          "height": 1448,
+          "url": "/content/media/Time-Slots-at-Candide-1.png"
+        },
+        {
+          "type": "image",
+          "width": 2702,
+          "height": 1498,
+          "url": "/content/media/Time-Slots-at-Candide-2.png"
+        },
+        {
+          "type": "image",
+          "width": 1748,
+          "height": 1608,
+          "url": "/content/media/Time-Slots-at-Candide-3.png"
+        },
+        {
+          "type": "image",
+          "width": 2992,
+          "height": 1126,
+          "url": "/content/media/Time-Slots-at-Candide-4.png"
+        },
+        {
+          "type": "image",
+          "width": 3012,
+          "height": 1114,
+          "url": "/content/media/Time-Slots-at-Candide-5.png"
+        },
+        {
+          "type": "image",
+          "width": 2938,
+          "height": 2108,
+          "url": "/content/media/Time-Slots-at-Candide-6.png"
+        }
+      ],
+      "type": "project",
+      "title": "Time Slots",
+      "company": "Candide"
+    },
+    {
+      "id": "uFyzpLft0iEhrhUIe1ol",
+      "year": "2019",
+      "heading": "Tap & Ride at Masabi",
+      "url": null,
+      "collaborators": [],
+      "description": "We developed an account based ticketing system (think Oyster across cities) for ticketless travel.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 9087,
+          "height": 9622,
+          "url": "/content/media/Tap-and-Ride-at-Masabi-1.png"
+        },
+        {
+          "type": "image",
+          "width": 2990,
+          "height": 1750,
+          "url": "/content/media/Tap-and-Ride-at-Masabi-2.png"
+        },
+        {
+          "type": "image",
+          "width": 2702,
+          "height": 1836,
+          "url": "/content/media/Tap-and-Ride-at-Masabi-3.png"
+        },
+        {
+          "type": "image",
+          "width": 3072,
+          "height": 1636,
+          "url": "/content/media/Tap-and-Ride-at-Masabi-4.png"
+        }
+      ],
+      "type": "project",
+      "title": "Tap & Ride",
+      "company": "Masabi"
+    },
+    {
+      "id": "H19kNLmTcixXISYVhfMj",
+      "year": "2018",
+      "heading": "Mobility as a Service at Masabi",
+      "url": null,
+      "collaborators": [],
+      "description": "We built a way to use our tech in partner apps, driving ticket sales for our client by 39.2% and Uber trips in Denver starting or ending at a transport station by 11.6%.",
+      "attachments": [],
+      "type": "project",
+      "title": "Mobility as a Service",
+      "company": "Masabi"
+    }
+  ],
+  "sideProjects": [],
+  "exhibitions": [],
+  "talks": [],
+  "writing": [
+    {
+      "id": "2brltpxHCFLKoTQPUp47",
+      "year": "2022",
+      "heading": "How to edit microcopy",
+      "url": null,
+      "collaborators": [],
+      "description": "A short guide to the mightiest text.",
+      "attachments": [],
+      "type": "writing",
+      "title": "How to edit microcopy",
+      "publisher": null
+    }
+  ],
+  "awards": [],
+  "features": [
+    {
+      "id": "5Jh93qeZUBMF5VYVifyV",
+      "year": "2022",
+      "heading": "Kind words from colleagues",
+      "url": null,
+      "collaborators": [],
+      "description": "LinkedIn recommendations.",
+      "attachments": [],
+      "type": "feature",
+      "title": "Kind words from colleagues",
+      "publisher": null
+    }
+  ],
+  "workExperience": [
+    {
+      "id": "EliMrTcTYYANhnJ0Cd9r",
+      "year": "2022 — Now",
+      "heading": "Senior Product Designer at Genomics plc",
+      "url": "https://www.genomicsplc.com/",
+      "collaborators": [],
+      "description": "Testing service for genetic predisposition to disease\n\n* Co-designed genetic testing service that exceeded sign up target by 40% in first month\n\n* Led creative test kit physical packaging designs under US health regulations\n\n* Planned, gathered and synthesised user research to guide business decisions including product name\n\n* Contributed to and maintained a design system including large copy set\n\n* Presented company-wide design process talks to drive organisation design maturity",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Senior Product Designer",
+      "company": "Genomics plc",
+      "location": "Oxford"
+    },
+    {
+      "id": "DEOAXDoIJJNh7TNzpxb0",
+      "year": "2020 — 2022",
+      "heading": "Product Designer at Candide",
+      "url": "http://candide.com",
+      "collaborators": [],
+      "description": "Digitising garden visitation businesses to drive revenue\n\n* Led design of multi-platform services for garden visitation firms and their customers\n\n* Defined ticketing and attraction services for visitors aged 65+ with low digital skills\n\n* Ran stakeholder workshops presenting journey maps and other artefacts\n\n* Contributed to and maintained a design system\n\n* Balanced multiple project needs in a high pressure start up environment",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Product Designer",
+      "company": "Candide",
+      "location": "Bristol"
+    },
+    {
+      "id": "7uhbGXpiu8z0AK5xO5kM",
+      "year": "2020 — 2020",
+      "heading": "Freelance Product Designer at OBD",
+      "url": null,
+      "collaborators": [],
+      "description": "Product design consultation services for local businesses. Designed end-to-end experiences via affordable fixed project pricing model.",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Freelance Product Designer",
+      "company": "OBD",
+      "location": "Bristol"
+    },
+    {
+      "id": "GjPCpkJSG9O7bF0qV8lw",
+      "year": "2018 — 2020",
+      "heading": "Product Designer at Masabi",
+      "url": "http://masabi.com",
+      "collaborators": [],
+      "description": "Global transport fare collection SaaS platform\n\n* Led end-to-end design of iOS, Android and web platforms serving millions of users\n\n* Delivered new features and data-led iterations with engineers across teams\n\n* Worked with Uber and Google design teams\n\n* Wrote production CSS for new client app\n\n* Led switch to Figma to support US team collaboration and defined design system",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Product Designer",
+      "company": "Masabi",
+      "location": "London"
+    },
+    {
+      "id": "nDAnBq5S1AlUK8aDQE5O",
+      "year": "2016 — 2018",
+      "heading": "UI/UX Designer at NewDay",
+      "url": "http://newday.co.uk",
+      "collaborators": [],
+      "description": "Affordable credit finance\n\n* Defined web experiences for 10+ brands receiving 10m total sessions a year\n\n* Owned optimisation efforts with iterative testing\n\n* Cut delivery time with introduction of design system documentation\n\n* Developed on own initiative an acronym web search to ease new hire onboarding\n\n* Managed additional stakeholder responsibility on exit of senior designer colleague",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "UI/UX Designer",
+      "company": "NewDay",
+      "location": "London"
+    },
+    {
+      "id": "IBjxud7gtA6HoYqfqqzp",
+      "year": "2015 — 2015",
+      "heading": "Motion Graphics Designer at Gramercy Park Studios",
+      "url": "http://gramercyparkstudios.com",
+      "collaborators": [],
+      "description": "Global media production\n\n* Assisted in motion graphics production for TV, from SU2C overlays to 3D intro segments\n\n* Input on graphic design projects\n\n* Leveraged professional Cinema 4D to After Effects workflows",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Motion Graphics Designer",
+      "company": "Gramercy Park Studios",
+      "location": "London"
+    }
+  ],
+  "volunteering": [
+    {
+      "id": "PTdWqGFZOPwGJqJQVr7H",
+      "year": "2022 — 2023",
+      "heading": "Helpline Volunteer at British Stammering Association",
+      "url": "https://stamma.org",
+      "collaborators": [],
+      "description": "Provided emotional and practical support for people directly or indirectly (parents) affected by stammering. Assured people it is manageable, inspires empathy and teaches you how to deal with fear.",
+      "attachments": [],
+      "type": "volunteering",
+      "title": "Helpline Volunteer",
+      "organization": "British Stammering Association",
+      "location": ""
+    },
+    {
+      "id": "BYbJOIOBUKTLdSILOQ7W",
+      "year": "2021 — 2022",
+      "heading": "Design Consultant at Bristol Palestine Film Festival",
+      "url": null,
+      "collaborators": [],
+      "description": "Advised on mixed media from web design to print on an adhoc basis.",
+      "attachments": [],
+      "type": "volunteering",
+      "title": "Design Consultant",
+      "organization": "Bristol Palestine Film Festival",
+      "location": "Bristol"
+    },
+    {
+      "id": "4MQaBpgvECafHPumFWmb",
+      "year": "2016 — 2016",
+      "heading": "Fundraiser at Medical Aid for Palestinians",
+      "url": null,
+      "collaborators": [],
+      "description": "Cycled through the West Bank in Palestine for 10 days to raise money for Medical Aid for Palestinians (MAP). MAP provides life-saving medical care to Palestinians affected by the Israeli occupation.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 1154,
+          "height": 681,
+          "url": "/content/media/Fundraiser-at-Medical-Aid-for-Palestinians-1.jpg"
+        },
+        {
+          "type": "image",
+          "width": 1086,
+          "height": 724,
+          "url": "/content/media/Fundraiser-at-Medical-Aid-for-Palestinians-2.jpg"
+        },
+        {
+          "type": "image",
+          "width": 1086,
+          "height": 724,
+          "url": "/content/media/Fundraiser-at-Medical-Aid-for-Palestinians-3.jpg"
+        },
+        {
+          "type": "image",
+          "width": 1086,
+          "height": 724,
+          "url": "/content/media/Fundraiser-at-Medical-Aid-for-Palestinians-4.jpg"
+        }
+      ],
+      "type": "volunteering",
+      "title": "Fundraiser",
+      "organization": "Medical Aid for Palestinians",
+      "location": "Palestine"
+    }
+  ],
+  "education": [
+    {
+      "id": "eHRod21dayPr7RYMavBb",
+      "year": "2012 — 2015",
+      "heading": "Digital Media Production at Arts University Bournemouth",
+      "url": "https://aub.ac.uk",
+      "collaborators": [],
+      "description": "Specialised in UX/UI and animation from a range of media. Created a physical smartphone prototype and concept OS for final major project.",
+      "attachments": [],
+      "type": "education",
+      "degree": "Digital Media Production",
+      "school": "Arts University Bournemouth",
+      "location": "Bournemouth"
+    },
+    {
+      "id": "aGd1t8Ay0jfx4jDq73bS",
+      "year": "2011 — 2012",
+      "heading": "Foundation Diploma, Graphic Design at Arts University Bournemouth",
+      "url": "https://aub.ac.uk",
+      "collaborators": [],
+      "description": "Practical graphic design skills.",
+      "attachments": [],
+      "type": "education",
+      "degree": "Foundation Diploma, Graphic Design",
+      "school": "Arts University Bournemouth",
+      "location": "Bournemouth"
+    }
+  ],
+  "certifications": [
+    {
+      "id": "jEa4R57ZlasZHI43gO5x",
+      "year": "2022",
+      "heading": "d.MBA from d.MBA",
+      "url": "https://d.mba",
+      "collaborators": [],
+      "description": "Learned and applied business fundamentals in this 6-week business design course. Topics included Business Empathy, Business Strategy (Strategic Goals, Strategic Places, Strategic Activities), Business Models, Prototyping with Numbers, Business and Design Metrics.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 4620,
+          "height": 3516,
+          "url": "/content/media/dMBA-from-dMBA.png"
+        }
+      ],
+      "type": "certification",
+      "name": "d.MBA",
+      "organization": "d.MBA"
+    },
+    {
+      "id": "9lTiMud11P1HGz9pBS67",
+      "year": "2021",
+      "heading": "Service Design Masterclass from Royal College of Art",
+      "url": "https://www.rca.ac.uk",
+      "collaborators": [],
+      "description": "Added to service design skills in this week course with Clive Grinyer.",
+      "attachments": [],
+      "type": "certification",
+      "name": "Service Design Masterclass",
+      "organization": "Royal College of Art"
+    },
+    {
+      "id": "gh0ZWz27BgkCO5ceESSp",
+      "year": "2020",
+      "heading": "UX Certification from Nielsen Norman Group",
+      "url": "https://www.nngroup.com",
+      "collaborators": [],
+      "description": "Certified UX knowledge with distinctions in exams in this week intensive. Courses included Discoveries, Ideation Techniques for UX Design, Emerging Patterns in UI Design, Lean UX and Agile, UI Principles Designers Must Know, and UX Deliverables.",
+      "attachments": [],
+      "type": "certification",
+      "name": "UX Certification",
+      "organization": "Nielsen Norman Group"
+    },
+    {
+      "id": "49aK4EidcHsUO9sC7i6a",
+      "year": "2017",
+      "heading": "Freelance Website Development from Codecademy",
+      "url": "https://www.codecademy.com",
+      "collaborators": [],
+      "description": "Learned HTML/CSS and built several small websites.",
+      "attachments": [],
+      "type": "certification",
+      "name": "Freelance Website Development",
+      "organization": "Codecademy"
+    }
+  ],
+  "contact": [
+    {
+      "id": "WpSoQGnHu8fatiLyUIxG",
+      "platform": "Email",
+      "handle": "hi@olibatstone.com",
+      "url": "mailto:hi@olibatstone.com"
+    },
+    {
+      "id": "l4gS9zpL6zSgC6Qz1XpT",
+      "platform": "LinkedIn",
+      "handle": "olibatstone",
+      "url": "https://linkedin.com/in/olibatstone"
+    }
+  ],
+  "allCollections": [
+    {
+      "name": "Projects",
+      "items": [
+        {
+          "id": "7OW9OfaF4FBjwnoViSJ6",
+          "year": "2024",
+          "heading": "Tuning the Test Kit at Genomics plc",
+          "url": null,
+          "collaborators": [],
+          "description": "We defined a new online sample identification system for our genetic test kit, boosting successful use by 4.7%.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 1408,
+              "height": 860,
+              "url": "/content/media/Tuning-the-Test-Kit-at-Genomics-plc-1.png"
+            },
+            {
+              "type": "image",
+              "width": 3000,
+              "height": 2250,
+              "url": "/content/media/Tuning-the-Test-Kit-at-Genomics-plc-2.png"
+            }
+          ],
+          "type": "project",
+          "title": "Tuning the Test Kit",
+          "company": "Genomics plc"
+        },
+        {
+          "id": "rrj5IJTkEi3up90ffekF",
+          "year": "2022",
+          "heading": "A New Home for Gardens at Candide",
+          "url": null,
+          "collaborators": [],
+          "description": "We refreshed the home page in March 2022, turning it into a destination and improving bounce rate by -5%.",
+          "attachments": [],
+          "type": "project",
+          "title": "A New Home for Gardens",
+          "company": "Candide"
+        },
+        {
+          "id": "OHze3VIkzFs7ZFXnGKT9",
+          "year": "2021",
+          "heading": "The Gift of Gardens at Candide",
+          "url": null,
+          "collaborators": [],
+          "description": "We launched a garden membership gifting service, driving £32k revenue over Xmas 2021 and 13 new clients.",
+          "attachments": [],
+          "type": "project",
+          "title": "The Gift of Gardens",
+          "company": "Candide"
+        },
+        {
+          "id": "B1g5aHfLx48mfLAdOQyj",
+          "year": "2021",
+          "heading": "Time Slots at Candide",
+          "url": null,
+          "collaborators": [],
+          "description": "We optimised visitor date selection and added time slots to help gardens manage crowds.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 2064,
+              "height": 1448,
+              "url": "/content/media/Time-Slots-at-Candide-1.png"
+            },
+            {
+              "type": "image",
+              "width": 2702,
+              "height": 1498,
+              "url": "/content/media/Time-Slots-at-Candide-2.png"
+            },
+            {
+              "type": "image",
+              "width": 1748,
+              "height": 1608,
+              "url": "/content/media/Time-Slots-at-Candide-3.png"
+            },
+            {
+              "type": "image",
+              "width": 2992,
+              "height": 1126,
+              "url": "/content/media/Time-Slots-at-Candide-4.png"
+            },
+            {
+              "type": "image",
+              "width": 3012,
+              "height": 1114,
+              "url": "/content/media/Time-Slots-at-Candide-5.png"
+            },
+            {
+              "type": "image",
+              "width": 2938,
+              "height": 2108,
+              "url": "/content/media/Time-Slots-at-Candide-6.png"
+            }
+          ],
+          "type": "project",
+          "title": "Time Slots",
+          "company": "Candide"
+        },
+        {
+          "id": "uFyzpLft0iEhrhUIe1ol",
+          "year": "2019",
+          "heading": "Tap & Ride at Masabi",
+          "url": null,
+          "collaborators": [],
+          "description": "We developed an account based ticketing system (think Oyster across cities) for ticketless travel.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 9087,
+              "height": 9622,
+              "url": "/content/media/Tap-and-Ride-at-Masabi-1.png"
+            },
+            {
+              "type": "image",
+              "width": 2990,
+              "height": 1750,
+              "url": "/content/media/Tap-and-Ride-at-Masabi-2.png"
+            },
+            {
+              "type": "image",
+              "width": 2702,
+              "height": 1836,
+              "url": "/content/media/Tap-and-Ride-at-Masabi-3.png"
+            },
+            {
+              "type": "image",
+              "width": 3072,
+              "height": 1636,
+              "url": "/content/media/Tap-and-Ride-at-Masabi-4.png"
+            }
+          ],
+          "type": "project",
+          "title": "Tap & Ride",
+          "company": "Masabi"
+        },
+        {
+          "id": "H19kNLmTcixXISYVhfMj",
+          "year": "2018",
+          "heading": "Mobility as a Service at Masabi",
+          "url": null,
+          "collaborators": [],
+          "description": "We built a way to use our tech in partner apps, driving ticket sales for our client by 39.2% and Uber trips in Denver starting or ending at a transport station by 11.6%.",
+          "attachments": [],
+          "type": "project",
+          "title": "Mobility as a Service",
+          "company": "Masabi"
+        }
+      ]
+    },
+    {
+      "name": "Writing",
+      "items": [
+        {
+          "id": "2brltpxHCFLKoTQPUp47",
+          "year": "2022",
+          "heading": "How to edit microcopy",
+          "url": null,
+          "collaborators": [],
+          "description": "A short guide to the mightiest text.",
+          "attachments": [],
+          "type": "writing",
+          "title": "How to edit microcopy",
+          "publisher": null
+        }
+      ]
+    },
+    {
+      "name": "Work Experience",
+      "items": [
+        {
+          "id": "EliMrTcTYYANhnJ0Cd9r",
+          "year": "2022 — Now",
+          "heading": "Senior Product Designer at Genomics plc",
+          "url": "https://www.genomicsplc.com/",
+          "collaborators": [],
+          "description": "Testing service for genetic predisposition to disease\n\n* Co-designed genetic testing service that exceeded sign up target by 40% in first month\n\n* Led creative test kit physical packaging designs under US health regulations\n\n* Planned, gathered and synthesised user research to guide business decisions including product name\n\n* Contributed to and maintained a design system including large copy set\n\n* Presented company-wide design process talks to drive organisation design maturity",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Senior Product Designer",
+          "company": "Genomics plc",
+          "location": "Oxford"
+        },
+        {
+          "id": "DEOAXDoIJJNh7TNzpxb0",
+          "year": "2020 — 2022",
+          "heading": "Product Designer at Candide",
+          "url": "http://candide.com",
+          "collaborators": [],
+          "description": "Digitising garden visitation businesses to drive revenue\n\n* Led design of multi-platform services for garden visitation firms and their customers\n\n* Defined ticketing and attraction services for visitors aged 65+ with low digital skills\n\n* Ran stakeholder workshops presenting journey maps and other artefacts\n\n* Contributed to and maintained a design system\n\n* Balanced multiple project needs in a high pressure start up environment",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Product Designer",
+          "company": "Candide",
+          "location": "Bristol"
+        },
+        {
+          "id": "7uhbGXpiu8z0AK5xO5kM",
+          "year": "2020 — 2020",
+          "heading": "Freelance Product Designer at OBD",
+          "url": null,
+          "collaborators": [],
+          "description": "Product design consultation services for local businesses. Designed end-to-end experiences via affordable fixed project pricing model.",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Freelance Product Designer",
+          "company": "OBD",
+          "location": "Bristol"
+        },
+        {
+          "id": "GjPCpkJSG9O7bF0qV8lw",
+          "year": "2018 — 2020",
+          "heading": "Product Designer at Masabi",
+          "url": "http://masabi.com",
+          "collaborators": [],
+          "description": "Global transport fare collection SaaS platform\n\n* Led end-to-end design of iOS, Android and web platforms serving millions of users\n\n* Delivered new features and data-led iterations with engineers across teams\n\n* Worked with Uber and Google design teams\n\n* Wrote production CSS for new client app\n\n* Led switch to Figma to support US team collaboration and defined design system",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Product Designer",
+          "company": "Masabi",
+          "location": "London"
+        },
+        {
+          "id": "nDAnBq5S1AlUK8aDQE5O",
+          "year": "2016 — 2018",
+          "heading": "UI/UX Designer at NewDay",
+          "url": "http://newday.co.uk",
+          "collaborators": [],
+          "description": "Affordable credit finance\n\n* Defined web experiences for 10+ brands receiving 10m total sessions a year\n\n* Owned optimisation efforts with iterative testing\n\n* Cut delivery time with introduction of design system documentation\n\n* Developed on own initiative an acronym web search to ease new hire onboarding\n\n* Managed additional stakeholder responsibility on exit of senior designer colleague",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "UI/UX Designer",
+          "company": "NewDay",
+          "location": "London"
+        },
+        {
+          "id": "IBjxud7gtA6HoYqfqqzp",
+          "year": "2015 — 2015",
+          "heading": "Motion Graphics Designer at Gramercy Park Studios",
+          "url": "http://gramercyparkstudios.com",
+          "collaborators": [],
+          "description": "Global media production\n\n* Assisted in motion graphics production for TV, from SU2C overlays to 3D intro segments\n\n* Input on graphic design projects\n\n* Leveraged professional Cinema 4D to After Effects workflows",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Motion Graphics Designer",
+          "company": "Gramercy Park Studios",
+          "location": "London"
+        }
+      ]
+    },
+    {
+      "name": "Features",
+      "items": [
+        {
+          "id": "5Jh93qeZUBMF5VYVifyV",
+          "year": "2022",
+          "heading": "Kind words from colleagues",
+          "url": null,
+          "collaborators": [],
+          "description": "LinkedIn recommendations.",
+          "attachments": [],
+          "type": "feature",
+          "title": "Kind words from colleagues",
+          "publisher": null
+        }
+      ]
+    },
+    {
+      "name": "Certifications",
+      "items": [
+        {
+          "id": "jEa4R57ZlasZHI43gO5x",
+          "year": "2022",
+          "heading": "d.MBA from d.MBA",
+          "url": "https://d.mba",
+          "collaborators": [],
+          "description": "Learned and applied business fundamentals in this 6-week business design course. Topics included Business Empathy, Business Strategy (Strategic Goals, Strategic Places, Strategic Activities), Business Models, Prototyping with Numbers, Business and Design Metrics.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 4620,
+              "height": 3516,
+              "url": "/content/media/dMBA-from-dMBA.png"
+            }
+          ],
+          "type": "certification",
+          "name": "d.MBA",
+          "organization": "d.MBA"
+        },
+        {
+          "id": "9lTiMud11P1HGz9pBS67",
+          "year": "2021",
+          "heading": "Service Design Masterclass from Royal College of Art",
+          "url": "https://www.rca.ac.uk",
+          "collaborators": [],
+          "description": "Added to service design skills in this week course with Clive Grinyer.",
+          "attachments": [],
+          "type": "certification",
+          "name": "Service Design Masterclass",
+          "organization": "Royal College of Art"
+        },
+        {
+          "id": "gh0ZWz27BgkCO5ceESSp",
+          "year": "2020",
+          "heading": "UX Certification from Nielsen Norman Group",
+          "url": "https://www.nngroup.com",
+          "collaborators": [],
+          "description": "Certified UX knowledge with distinctions in exams in this week intensive. Courses included Discoveries, Ideation Techniques for UX Design, Emerging Patterns in UI Design, Lean UX and Agile, UI Principles Designers Must Know, and UX Deliverables.",
+          "attachments": [],
+          "type": "certification",
+          "name": "UX Certification",
+          "organization": "Nielsen Norman Group"
+        },
+        {
+          "id": "49aK4EidcHsUO9sC7i6a",
+          "year": "2017",
+          "heading": "Freelance Website Development from Codecademy",
+          "url": "https://www.codecademy.com",
+          "collaborators": [],
+          "description": "Learned HTML/CSS and built several small websites.",
+          "attachments": [],
+          "type": "certification",
+          "name": "Freelance Website Development",
+          "organization": "Codecademy"
+        }
+      ]
+    },
+    {
+      "name": "Education",
+      "items": [
+        {
+          "id": "eHRod21dayPr7RYMavBb",
+          "year": "2012 — 2015",
+          "heading": "Digital Media Production at Arts University Bournemouth",
+          "url": "https://aub.ac.uk",
+          "collaborators": [],
+          "description": "Specialised in UX/UI and animation from a range of media. Created a physical smartphone prototype and concept OS for final major project.",
+          "attachments": [],
+          "type": "education",
+          "degree": "Digital Media Production",
+          "school": "Arts University Bournemouth",
+          "location": "Bournemouth"
+        },
+        {
+          "id": "aGd1t8Ay0jfx4jDq73bS",
+          "year": "2011 — 2012",
+          "heading": "Foundation Diploma, Graphic Design at Arts University Bournemouth",
+          "url": "https://aub.ac.uk",
+          "collaborators": [],
+          "description": "Practical graphic design skills.",
+          "attachments": [],
+          "type": "education",
+          "degree": "Foundation Diploma, Graphic Design",
+          "school": "Arts University Bournemouth",
+          "location": "Bournemouth"
+        }
+      ]
+    },
+    {
+      "name": "Volunteering",
+      "items": [
+        {
+          "id": "PTdWqGFZOPwGJqJQVr7H",
+          "year": "2022 — 2023",
+          "heading": "Helpline Volunteer at British Stammering Association",
+          "url": "https://stamma.org",
+          "collaborators": [],
+          "description": "Provided emotional and practical support for people directly or indirectly (parents) affected by stammering. Assured people it is manageable, inspires empathy and teaches you how to deal with fear.",
+          "attachments": [],
+          "type": "volunteering",
+          "title": "Helpline Volunteer",
+          "organization": "British Stammering Association",
+          "location": ""
+        },
+        {
+          "id": "BYbJOIOBUKTLdSILOQ7W",
+          "year": "2021 — 2022",
+          "heading": "Design Consultant at Bristol Palestine Film Festival",
+          "url": null,
+          "collaborators": [],
+          "description": "Advised on mixed media from web design to print on an adhoc basis.",
+          "attachments": [],
+          "type": "volunteering",
+          "title": "Design Consultant",
+          "organization": "Bristol Palestine Film Festival",
+          "location": "Bristol"
+        },
+        {
+          "id": "4MQaBpgvECafHPumFWmb",
+          "year": "2016 — 2016",
+          "heading": "Fundraiser at Medical Aid for Palestinians",
+          "url": null,
+          "collaborators": [],
+          "description": "Cycled through the West Bank in Palestine for 10 days to raise money for Medical Aid for Palestinians (MAP). MAP provides life-saving medical care to Palestinians affected by the Israeli occupation.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 1154,
+              "height": 681,
+              "url": "/content/media/Fundraiser-at-Medical-Aid-for-Palestinians-1.jpg"
+            },
+            {
+              "type": "image",
+              "width": 1086,
+              "height": 724,
+              "url": "/content/media/Fundraiser-at-Medical-Aid-for-Palestinians-2.jpg"
+            },
+            {
+              "type": "image",
+              "width": 1086,
+              "height": 724,
+              "url": "/content/media/Fundraiser-at-Medical-Aid-for-Palestinians-3.jpg"
+            },
+            {
+              "type": "image",
+              "width": 1086,
+              "height": 724,
+              "url": "/content/media/Fundraiser-at-Medical-Aid-for-Palestinians-4.jpg"
+            }
+          ],
+          "type": "volunteering",
+          "title": "Fundraiser",
+          "organization": "Medical Aid for Palestinians",
+          "location": "Palestine"
+        }
+      ]
+    },
+    {
+      "name": "Contact",
+      "items": [
+        {
+          "id": "WpSoQGnHu8fatiLyUIxG",
+          "platform": "Email",
+          "handle": "hi@olibatstone.com",
+          "url": "mailto:hi@olibatstone.com"
+        },
+        {
+          "id": "l4gS9zpL6zSgC6Qz1XpT",
+          "platform": "LinkedIn",
+          "handle": "olibatstone",
+          "url": "https://linkedin.com/in/olibatstone"
+        }
+      ]
+    }
+  ]
+}
